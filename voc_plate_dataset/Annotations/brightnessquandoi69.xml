@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>brightnessquandoi69.jpg</filename>
+	<path>.\data\/brightnessquandoi69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>386</ymin>
+			<xmax>93</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

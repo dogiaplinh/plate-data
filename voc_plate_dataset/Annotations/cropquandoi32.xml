@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>cropquandoi32.jpg</filename>
+	<path>.\data\/cropquandoi32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>149</ymin>
+			<xmax>500</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

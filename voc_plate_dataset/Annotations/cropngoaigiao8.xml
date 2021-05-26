@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>cropngoaigiao8.jpg</filename>
+	<path>.\data\/cropngoaigiao8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>227</ymin>
+			<xmax>465</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

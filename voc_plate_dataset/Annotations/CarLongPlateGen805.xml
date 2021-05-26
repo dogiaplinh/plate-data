@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>CarLongPlateGen805.jpg</filename>
+	<path>.\data\/CarLongPlateGen805.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>178</ymin>
+			<xmax>270</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

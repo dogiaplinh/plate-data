@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>rotatequandoi77.jpg</filename>
+	<path>.\data\/rotatequandoi77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>330</ymin>
+			<xmax>583</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

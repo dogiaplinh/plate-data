@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>rotatengoaigiao3.jpg</filename>
+	<path>.\data\/rotatengoaigiao3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>393</ymin>
+			<xmax>627</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

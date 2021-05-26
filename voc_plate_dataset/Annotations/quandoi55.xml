@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>quandoi55.jpg</filename>
+	<path>.\data\/quandoi55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>196</ymin>
+			<xmax>318</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

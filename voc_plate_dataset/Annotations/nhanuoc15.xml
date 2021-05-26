@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>nhanuoc15.jpg</filename>
+	<path>.\data\/nhanuoc15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>247</ymin>
+			<xmax>279</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

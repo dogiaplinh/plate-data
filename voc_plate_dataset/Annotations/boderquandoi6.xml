@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>boderquandoi6.jpg</filename>
+	<path>.\data\/boderquandoi6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>308</ymin>
+			<xmax>482</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

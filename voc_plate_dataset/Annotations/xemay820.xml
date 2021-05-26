@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>xemay820.jpg</filename>
+	<path>.\data\/xemay820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>115</ymin>
+			<xmax>218</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

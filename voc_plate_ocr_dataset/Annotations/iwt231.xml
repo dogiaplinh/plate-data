@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ocr_az_dataset</folder>
+	<filename>iwt231.jpg</filename>
+	<path>ocr_az_dataset/iwt231.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>34</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>11</ymin>
+			<xmax>73</xmax>
+			<ymax>28</ymax>
+		</bndbox>
+	</object>
+</annotation>

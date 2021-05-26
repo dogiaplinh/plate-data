@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>ngoaigiao15.jpg</filename>
+	<path>.\data\/ngoaigiao15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>258</ymin>
+			<xmax>316</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

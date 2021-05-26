@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>xemayBigPlate133.jpg</filename>
+	<path>.\data\/xemayBigPlate133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>274</ymin>
+			<xmax>369</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

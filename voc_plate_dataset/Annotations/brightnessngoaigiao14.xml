@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>brightnessngoaigiao14.jpg</filename>
+	<path>.\data\/brightnessngoaigiao14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>356</ymin>
+			<xmax>315</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

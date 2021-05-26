@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>kd5.jpg</filename>
+	<path>.\data\/kd5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>665</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>258</ymin>
+			<xmax>466</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
